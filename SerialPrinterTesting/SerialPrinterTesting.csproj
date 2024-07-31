@@ -9,6 +9,9 @@
 
   <ItemGroup>
     <PackageReference Include="ESCPOS_NET" Version="3.0.0" />
+    <PackageReference Include="itext" Version="8.0.5" />
+    <PackageReference Include="itext7.bouncy-castle-adapter" Version="8.0.5" />
+    <PackageReference Include="Magick.NET.Core" Version="13.10.0" />
   </ItemGroup>
 
 </Project>
